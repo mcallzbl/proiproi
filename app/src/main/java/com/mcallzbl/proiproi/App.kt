@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.proiproi
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

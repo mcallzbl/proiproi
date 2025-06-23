@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.di
+package com.mcallzbl.proiproi.di
 
 import dagger.Module
 import dagger.Provides

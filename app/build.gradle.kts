@@ -11,11 +11,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mcallzbl.android_starter"
+    namespace = "com.mcallzbl.proiproi"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.mcallzbl.android_starter"
+        applicationId = "com.mcallzbl.proiproi"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
